@@ -25,7 +25,9 @@ body {
   width: 25%;
   display: block;
   text-align: center;
-  float: left; }
+  float: left;
+  text-decoration: none;
+  color: black; }
 
 .nav {
   width: 100%; }
