@@ -47,7 +47,7 @@ background: white;
 
 .chanpin {
     width: 100%;
-    height: 550px;
+    height: 450px;
     background: $bgwhite;
 }
 
@@ -61,6 +61,7 @@ img.bijia {
    
     z-index: 100;
     position: relative;
+    width: auto;
 }
 
 .chanpin div {
