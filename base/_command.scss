@@ -86,7 +86,7 @@ padding: 4px;
 
 aside span {
     background: black;
-    width: 69px;
+    width: 80px;
     display: block;
     text-align: center;
 float: left;
@@ -94,10 +94,13 @@ padding-top:4px;padding-bottom:4px;
 border-radius: 4px 0px 0px 4px;
 }
 
-aside span::before {
-    content: "\f2d6";
+aside span i::before {
+    content: "\f0c0";
 }
 
+i.fa.fa-group {
+    margin-right: 3px;
+}
 aside a {
     width: 72px;
     display: block;
