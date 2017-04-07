@@ -3,6 +3,8 @@
 body{max-width:640px;
 margin:0 auto;background: #D8D8D8;}
 
+$bgwhite:white;
+
 .tuan-footer{    box-sizing: content-box;}
 
 .tuan-footer div{height:50px;    position: fixed;bottom:-1px;z-index: 400;line-height:50px;right:0;left:0;border: 1px solid #e2e2e2;background: #F6FFE8;}
@@ -21,6 +23,8 @@ margin:0 auto;background: #D8D8D8;}
 
 .gongneng {
     width: 100%;
+    height: 326px;
+    background: white;
 }
 
 .gongneng div {
@@ -39,4 +43,78 @@ background: white;
 
 .gongneng div ul li img {
     width:100%;
+}
+
+.chanpin {
+    width: 100%;
+    height: 550px;
+    background: $bgwhite;
+}
+
+img.chanpintu {
+    width: 100%;
+}
+
+img.bijia {
+    margin-left: 40px;
+    margin-bottom: -68px;
+   
+    z-index: 100;
+    position: relative;
+}
+
+.chanpin div {
+   
+    margin-left: 20px;
+}
+
+label {
+    float: left;
+margin-top: 20px;
+    color: red;
+}
+
+aside {
+    float: left;
+    margin-left: 340px;
+    
+    margin-top: 20px;
+    
+    color: white;
+padding: 4px;
+}
+
+aside span {
+    background: black;
+    width: 69px;
+    display: block;
+    text-align: center;
+float: left;
+padding-top:4px;padding-bottom:4px;
+border-radius: 4px 0px 0px 4px;
+}
+
+aside span::before {
+    content: "\f2d6";
+}
+
+aside a {
+    width: 72px;
+    display: block;
+    background: #ff534c;
+    text-align: center;
+float: left;
+padding-top:4px;padding-bottom:4px;
+border-radius: 0px 4px 4px 0px;
+}
+
+.chanpin b {
+    font-size: 24px;
+    color: red;
+}
+
+.chanpin label span {
+    font-size: 14px;
+    text-decoration: line-through;
+color: #2A2727;
 }
