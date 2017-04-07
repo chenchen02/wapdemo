@@ -81,10 +81,11 @@ label {
   color: red; }
 
 aside {
-  float: left;
+  float: right;
   margin-top: 20px;
   color: white;
-  padding: 4px; }
+  padding: 4px;
+  margin-right: 10px; }
 
 aside span {
   background: black;
