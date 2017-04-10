@@ -38,6 +38,12 @@ body {
   margin-top: -9px;
   display: block; }
 
+.tuan-footer div a i img {
+  width: 17px;
+  display: block;
+  margin-left: 48%;
+  margin-right: 48%; }
+
 .nav {
   width: 100%; }
 
