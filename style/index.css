@@ -29,6 +29,10 @@ body {
   text-decoration: none;
   color: black; }
 
+.tuan-footer i {
+  display: block;
+  margin-top: 5px; }
+
 .nav {
   width: 100%; }
 
