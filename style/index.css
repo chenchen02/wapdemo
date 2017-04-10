@@ -63,7 +63,8 @@ body {
   margin-bottom: 20px; }
 
 .gongneng div {
-  margin: 0 auto; }
+  margin: 0 auto;
+  height: 150px; }
 
 .gongneng div ul li {
   float: left;
