@@ -60,7 +60,8 @@ body {
 .chanpin {
   width: 100%;
   background: white;
-  display: table-row-group; }
+  margin-bottom: 15px;
+  display: table; }
 
 img.chanpintu {
   width: 100%; }
