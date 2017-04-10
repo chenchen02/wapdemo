@@ -3,6 +3,19 @@
 body{max-width:640px;
 margin:0 auto;background: #D8D8D8;}
 
+
+
+#imges{width: 100%;}
+#imges img{ width: 100%;
+    display: none;}
+#imges img.show{ display:block;}
+ul li{ list-style:none; display:inline-block; width:10px;height:10px; text-align:center; border-radius:18px; cursor:pointer;font-size:0px;}
+li{ background-color:#999; color:#999;}
+#number{ float:right; position:relative; top:-45px;width: 100%;
+    text-align: center;}
+#number li.show{ background-color:white;color:white;border: 1px solid black;}
+
+
 $bgwhite:white;
 
 .tuan-footer{    box-sizing: content-box;}
