@@ -296,7 +296,8 @@ ul.tuanmenu {
 
 .danzi {
   height: 200px;
-  background: white; }
+  background: white;
+  margin-bottom: 10px; }
 
 .danzi a {
   font-size: 14px;
