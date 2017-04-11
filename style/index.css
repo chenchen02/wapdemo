@@ -305,22 +305,17 @@ ul.tuanmenu {
   width: 100%;
   display: block; }
 
-.chanpin {
+.chanpina {
   margin-bottom: 0px; }
 
-.chanpintu {
+.chanpintua img {
+  height: 80px; }
+
+.chanpina div {
   display: table-cell;
   vertical-align: top; }
 
-.chanpintu img {
-  height: 80px; }
-
-.chanpin div {
-  display: table-cell;
-  vertical-align: top;
-  background: #E6E6E6; }
-
-.chanpin p {
+.chanpina p {
   font-size: 15px;
   margin-top: 4px; }
 
