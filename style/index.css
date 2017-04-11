@@ -333,6 +333,7 @@ p.clearorder span {
   line-height: 30px;
   border: 1px solid #5f646e;
   cursor: pointer;
-  padding: 3px; }
+  padding: 3px;
+  border-radius: 3px; }
 
 /*# sourceMappingURL=index.css.map */
