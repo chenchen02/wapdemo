@@ -62,11 +62,13 @@ transform-origin:50% 50%;
 
 .myorder ul li {
     font-size: 15px;
-    width: 23.5%;
+    width: 23%;
 color:black;
     line-height: 30px;
 height:30px;
     background: #D8D8D8;
+    margin-left: 3px;
+    margin-right: 3px;
 }
 
 .ordermenu {
@@ -103,4 +105,8 @@ background:$bg;
 }
 .danzi a {
     font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    width: 100%;
+    display: block;
 }
