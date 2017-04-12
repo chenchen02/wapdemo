@@ -1,0 +1,78 @@
+﻿.myheader{
+ background-image:url("../img/myimg1.png");
+    height: 200px;
+
+width: 100%;
+    text-align: center;
+margin-bottom: 5px;
+}
+
+
+.myheader img{
+
+width:80px;
+border-radius:80px;
+    margin-top: 50px;
+border:3px solid white;
+}
+
+
+.myheader p {
+    font-size: 12px;
+    color: white;
+}
+
+
+
+
+.mybody div{background:white;}
+
+.mybody p {
+    height: 40px;
+    line-height: 40px;
+border-bottom:1px solid #D8D8D8;
+}
+
+.mybody span {
+    margin-left: 10px;
+}
+
+.mybody lable {
+    height: 10px;
+    width: 10px;
+    border-top: 1px solid black;
+        display: inline-table;
+    border-right: 1px solid black;
+transform:rotate(45deg);
+-webkit-transform:rotate(45deg);
+margin-left: 84%;
+}
+
+
+.collection lable {
+
+margin-left: 80%;
+}
+
+
+.redpacket lable {
+    
+margin-left: 87.5%;
+}
+
+
+
+.touch lable {
+   
+margin-left: 82%;
+}
+
+.fuli img {
+    width: 100%;
+}
+
+.fuli a {
+    width: 50%;
+display: block;
+    float: left;
+}

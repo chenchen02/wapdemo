@@ -188,53 +188,6 @@ aside a::after {
   text-decoration: line-through;
   color: #2A2727; }
 
-body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
-  margin: 0;
-  padding: 0; }
-
-body {
-  max-width: 640px;
-  margin: 0 auto;
-  background: #D8D8D8; }
-
-.tuan-footer {
-  box-sizing: content-box; }
-
-.tuan-footer div {
-  height: 50px;
-  position: fixed;
-  bottom: -1px;
-  z-index: 400;
-  line-height: 50px;
-  right: 0;
-  left: 0;
-  border: 1px solid #e2e2e2;
-  background: #F6FFE8; }
-
-.tuan-footer div a {
-  width: 25%;
-  display: block;
-  text-align: center;
-  float: left;
-  text-decoration: none;
-  color: black; }
-
-.tuan-footer i {
-  display: block;
-  margin-top: 6px; }
-
-.tuan-footer span {
-  width: 100%;
-  margin-top: -9px;
-  display: block;
-  color: #808080; }
-
-.tuan-footer div a i img {
-  width: 17px;
-  display: block;
-  margin-left: 47%;
-  margin-right: 48%; }
-
 .myorder {
   width: 100%;
   background: white;
@@ -304,7 +257,8 @@ ul.tuanmenu {
   height: 30px;
   line-height: 30px;
   width: 100%;
-  display: block; }
+  display: block;
+  margin-left: 5px; }
 
 .chanpina {
   margin-bottom: 0px; }
@@ -334,6 +288,62 @@ p.clearorder span {
   border: 1px solid #5f646e;
   cursor: pointer;
   padding: 3px;
-  border-radius: 3px; }
+  border-radius: 3px;
+  margin-top: 10px; }
+
+.myheader {
+  background-image: url("../img/myimg1.png");
+  height: 200px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 5px; }
+
+.myheader img {
+  width: 80px;
+  border-radius: 80px;
+  margin-top: 50px;
+  border: 3px solid white; }
+
+.myheader p {
+  font-size: 12px;
+  color: white; }
+
+.mybody div {
+  background: white; }
+
+.mybody p {
+  height: 40px;
+  line-height: 40px;
+  border-bottom: 1px solid #D8D8D8; }
+
+.mybody span {
+  margin-left: 10px; }
+
+.mybody lable {
+  height: 10px;
+  width: 10px;
+  border-top: 1px solid black;
+  display: inline-table;
+  border-right: 1px solid black;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  margin-left: 84%; }
+
+.collection lable {
+  margin-left: 80%; }
+
+.redpacket lable {
+  margin-left: 87.5%; }
+
+.touch lable {
+  margin-left: 82%; }
+
+.fuli img {
+  width: 100%; }
+
+.fuli a {
+  width: 50%;
+  display: block;
+  float: left; }
 
 /*# sourceMappingURL=index.css.map */
