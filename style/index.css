@@ -326,17 +326,7 @@ p.clearorder span {
   display: inline-table;
   border-right: 1px solid black;
   transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-  margin-left: 84%; }
-
-.collection lable {
-  margin-left: 80%; }
-
-.redpacket lable {
-  margin-left: 87.5%; }
-
-.touch lable {
-  margin-left: 82%; }
+  -webkit-transform: rotate(45deg); }
 
 .fuli img {
   width: 100%; }
