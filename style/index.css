@@ -328,6 +328,9 @@ p.clearorder span {
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg); }
 
+.fuli {
+  height: 200px; }
+
 .fuli img {
   width: 100%; }
 
